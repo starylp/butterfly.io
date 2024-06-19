@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/about/index.html</loc>
+    <loc>https://starylp.github.io/butterfly.io/social/friend/index.html</loc>
     
-    <lastmod>2024-06-18</lastmod>
+    <lastmod>2024-06-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +12,114 @@
   
   <url>
     <loc>https://starylp.github.io/butterfly.io/2024/06/18/hello-world/</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/2024/06/18/%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA/</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/2024/06/19/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/personal/love/index.html</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/personal/iindex.html</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/box/nav/index.html</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/box/animation/index.html</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/box/index.html</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/social/index.html</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/article/archives/index.html</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/article/index.html</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/article/tags/index.html</loc>
+    
+    <lastmod>2024-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/personal/about/index.html</loc>
     
     <lastmod>2024-06-18</lastmod>
     
@@ -29,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/2024/06/18/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA-%E4%BB%A3%E7%A0%81%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://starylp.github.io/butterfly.io/article/categories/index.html</loc>
     
     <lastmod>2024-06-18</lastmod>
     
@@ -38,25 +146,7 @@
   </url>
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/categories/index.html</loc>
-    
-    <lastmod>2024-06-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://starylp.github.io/butterfly.io/link/index.html</loc>
-    
-    <lastmod>2024-06-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://starylp.github.io/butterfly.io/photo/wallpaper/index.html</loc>
+    <loc>https://starylp.github.io/butterfly.io/box/photo/wallpaper/index.html</loc>
     
     <lastmod>2024-06-15</lastmod>
     
@@ -65,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/photo/index.html</loc>
+    <loc>https://starylp.github.io/butterfly.io/box/photo/index.html</loc>
     
     <lastmod>2024-06-15</lastmod>
     
@@ -74,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/photo/ManWei/index.html</loc>
+    <loc>https://starylp.github.io/butterfly.io/box/photo/ManWei/index.html</loc>
     
     <lastmod>2024-06-15</lastmod>
     
@@ -83,25 +173,7 @@
   </url>
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/photo/Genshin/index.html</loc>
-    
-    <lastmod>2024-06-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://starylp.github.io/butterfly.io/music/index.html</loc>
-    
-    <lastmod>2024-06-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://starylp.github.io/butterfly.io/move/index.html</loc>
+    <loc>https://starylp.github.io/butterfly.io/box/photo/Genshin/index.html</loc>
     
     <lastmod>2024-06-13</lastmod>
     
@@ -112,22 +184,29 @@
 
   <url>
     <loc>https://starylp.github.io/butterfly.io</loc>
-    <lastmod>2024-06-18</lastmod>
+    <lastmod>2024-06-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/tags/%E6%A0%87%E7%AD%BE3/</loc>
-    <lastmod>2024-06-18</lastmod>
+    <loc>https://starylp.github.io/butterfly.io/tags/%E6%A0%87%E7%AD%BE2/</loc>
+    <lastmod>2024-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/tags/%E6%A0%87%E7%AD%BE2/</loc>
-    <lastmod>2024-06-18</lastmod>
+    <loc>https://starylp.github.io/butterfly.io/tags/%E6%A0%87%E7%AD%BE1/</loc>
+    <lastmod>2024-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/tags/%E6%A0%87%E7%AD%BE3/</loc>
+    <lastmod>2024-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -135,15 +214,22 @@
 
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/categories/%E7%BC%96%E7%A8%8B%E7%B1%BB/</loc>
-    <lastmod>2024-06-18</lastmod>
+    <loc>https://starylp.github.io/butterfly.io/categories/%E6%B5%8B%E8%AF%95%E7%B1%BB/</loc>
+    <lastmod>2024-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/categories/%E6%B5%8B%E8%AF%95%E7%B1%BB/</loc>
-    <lastmod>2024-06-18</lastmod>
+    <loc>https://starylp.github.io/butterfly.io/categories/%E7%BC%96%E7%A8%8B%E7%B1%BB/</loc>
+    <lastmod>2024-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://starylp.github.io/butterfly.io/categories/test/</loc>
+    <lastmod>2024-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
