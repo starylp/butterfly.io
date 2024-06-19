@@ -191,6 +191,13 @@
 
   
   <url>
+    <loc>https://starylp.github.io/butterfly.io/tags/%E6%A0%87%E7%AD%BE3/</loc>
+    <lastmod>2024-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://starylp.github.io/butterfly.io/tags/%E6%A0%87%E7%AD%BE2/</loc>
     <lastmod>2024-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,13 +206,6 @@
   
   <url>
     <loc>https://starylp.github.io/butterfly.io/tags/%E6%A0%87%E7%AD%BE1/</loc>
-    <lastmod>2024-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://starylp.github.io/butterfly.io/tags/%E6%A0%87%E7%AD%BE3/</loc>
     <lastmod>2024-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -221,14 +221,14 @@
   </url>
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/categories/%E7%BC%96%E7%A8%8B%E7%B1%BB/</loc>
+    <loc>https://starylp.github.io/butterfly.io/categories/test/</loc>
     <lastmod>2024-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://starylp.github.io/butterfly.io/categories/test/</loc>
+    <loc>https://starylp.github.io/butterfly.io/categories/%E7%BC%96%E7%A8%8B%E7%B1%BB/</loc>
     <lastmod>2024-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
